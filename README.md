@@ -2,7 +2,7 @@
 Helfy assignment solution by Shahar Wissbecker
 
 ## Frontend
-Frontend was initialized using Vite (React + TS)
+Frontend was initialized using Vite (React + TS).
 
 ## Backend
-Backend was initialized using Node.JS + Express.JS<br>Used Nodemon for live server update
+Backend was initialized using Node.JS + Express.JS.<br>Used Nodemon for live server update.
